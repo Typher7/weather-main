@@ -1,5 +1,4 @@
 # weather-app
-Sure, here's a sample README file for the "weather-main" repository:
 
 # Weather Application
 
@@ -44,8 +43,8 @@ That's it! The weather application should now be running on your local machine.
 
 Here are a few screenshots of the weather application:
 
-![Weather Application Screenshot 1](screenshot1.png)
-![Weather Application Screenshot 2](screenshot2.png)
+![Weather Application Screenshot 1](Screenshot1.png)
+![Weather Application Screenshot 2](Screenshot2.png)
 
 ## Contributing
 
@@ -53,4 +52,3 @@ If you'd like to contribute to this project, please feel free to submit a pull r
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
